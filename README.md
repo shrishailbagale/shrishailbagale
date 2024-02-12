@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shrishailbagale
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning MCA
+- 🌱 I have completed MCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
